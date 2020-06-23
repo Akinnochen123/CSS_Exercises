@@ -1,0 +1,81 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: white;
+    height: 500px;
+    width: 500px;
+    border: 3px solid black;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.Mock3 {
+    height: 20px;
+    width: 500px;
+    border: 3px solid black;
+
+
+}
+
+.first {
+    background: green;
+    height: 70px;
+    width: 500px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 3px solid black;
+}
+
+.second {
+    
+    height: 150px;
+    width: 150px;
+    
+    
+}
+
+ .third {
+
+    height: 150px;
+    width: 150px;
+    
+}
+
+ .fourth{
+    height: 150px;
+    width: 150px;
+    
+    
+}
+
+.fifth {
+    background: goldenrod;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+
+}
+
+.sixth {
+    background: rgb(167, 75, 75);
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+
+}
+
+.seventh {
+    background: skyblue;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+    margin-right: 10px;
+
+
+}
+
+
+

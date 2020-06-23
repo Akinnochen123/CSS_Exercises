@@ -1,0 +1,34 @@
+#wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: rgb(65, 65, 199);
+    height: 500px;
+    width: 800px;
+    justify-content: center;
+}
+
+#nav {
+    
+    background: skyblue;
+    height: 450px;
+    width: 150px;
+
+
+}
+
+#content {
+    
+    background: rgb(59, 103, 160);
+    height: 450px;
+    width: 600px;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+.copyright {
+    margin-top: 50px;
+
+    
+}
