@@ -20,12 +20,14 @@ background: darkolivegreen;
     padding: 5px 10px;
     margin-left: 50px;
     margin-right: 50px;
+    
 }
 
 #nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
+
     
 }
 
@@ -33,6 +35,7 @@ background: darkolivegreen;
     display: inline;
     margin: 0;
     padding: 0;
+
 }
 
 #content {

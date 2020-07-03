@@ -1,9 +1,7 @@
-.container {
+body {
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    height: 500px;
-    width: 500px;
+    margin: 10;
     border: 3px solid black;
     justify-content: space-around;
 
@@ -13,29 +11,30 @@
 .Mock2 {
     background: white;
     height: 20px;
-    width: 500px;
+    width: 100%;
     border: 2px solid black;
 }
 
+
 .second {
     background: rgb(170, 104, 170);
-    height: 70px;
-    width: 500px;
+    height: 100px;
+    width: 97%;
     margin-top: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-    border: 3px solid black;
+    border: 2px solid black;
+    
 
 
 }
 
 .third {
     background: palevioletred;
-    height: 300px;
-    width: 120px;
+    height: 480px;
+    width: 30%;
     margin-top: 20px;
-    border: 3px solid black;
-    margin-left: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    
 
 }
 
@@ -43,19 +42,20 @@
 
 .fourth {
     background: rgb(121, 179, 121);
-    height: 300px;
-    width: 120px;
-    border: 3px solid black;
+    height: 480px;
+    width: 30%;
     margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
 }
 
 .fifth {
     background: goldenrod;
-    height: 300px;
-    width: 120px;
-    border: 3px solid black;
+    height: 480px;
+    width: 30%;
     margin-top: 20px;
-    margin-right: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
 
 
 }
